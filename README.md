@@ -45,6 +45,6 @@ Network with an id of 2023 will start after execution of the above commands.
 -----
 ## Smart Contract deployed using Remix IDE: 
 
-![***Expenses Tracker Screenshots***](etss1.png)
+![***Screenshots***](remixss.png)
 
 -----
