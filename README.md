@@ -1,6 +1,6 @@
 # KYC Verification (Blockchain)
 **Description** \
-Decentralized KYC verification process for banks that stores customer data in a blockchain. A distributed ledger is set up among all the banks, where one bank can upload the KYC of a customer and others can vote on the legitimacy of the customer’s details. The KYC for the customers will be stored immutably on the blockchain and will be accessible to all the banks in the blockchain. \
+Decentralized KYC verification process for banks that stores customer data in a blockchain. A distributed ledger is set up among all the banks, where one bank can upload the KYC of a customer and others can vote on the legitimacy of the customer’s details. The KYC for the customers will be stored immutably on the blockchain and will be accessible to all the banks in the blockchain \
 ***The smart contracts are written in Solidity programming language and deployed on a private ethereum network using Truffle.*** 
 
 -----
